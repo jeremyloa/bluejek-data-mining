@@ -1,0 +1,28 @@
+{
+    "id": "F3B0D835",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1663036278797.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "af7fefd4b84a428ab80beeebbaef443f",
+        "name": "rules",
+        "title": "rules",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745374440816,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1663036278797,
+    "read_only": false,
+    "read_only_alternatives": []
+}
